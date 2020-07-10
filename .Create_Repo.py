@@ -29,7 +29,7 @@ def create():
 
     # Creates a README.md file to push
     with open("README.md", "w") as text_file:
-        print("Pass")
+        text_file.write("Pass")
     
     # Initialize Repo, adds, commits, and pushes README.md
     os.system("git init")
@@ -44,3 +44,4 @@ def create():
 
 if __name__ == '__main__':
     create()
+
