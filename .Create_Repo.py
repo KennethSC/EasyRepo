@@ -7,6 +7,9 @@ Github_username = "YOUR GITHUB USERNAME HERE"
 access_token = "YOUR ACCESS TOKEN HERE"
 Repo_name = str(sys.argv[1])
 
+# Make sure to enter the full path of the directory in which 
+# you want to creat the repository in correctly
+# EX: "/Users/your_name/Desktop/Projects/"
 path_to_Projects = "FULL PATH THAT YOUR REPO WILL BE MADE IN"
 
 
