@@ -6,7 +6,7 @@ This small python script uses the Github API to create a repository using an acc
 
 __Github API:__
 
-To install the Github API (for Mac users) use this command in your Terminal: pip install PyGithub
+To install the Github API (for Mac users) use this command in your Terminal: **pip install PyGithub**
 
 
 You will also need an access token from your Github account to create your repo using the Github API.
